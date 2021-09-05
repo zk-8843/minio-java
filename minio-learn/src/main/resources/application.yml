@@ -1,0 +1,5 @@
+minio:
+  endpoint: http://47.93.8.59:9000
+  accessKey: minioadmin
+  secretKey: minioadmin
+  bucketName: test-zk
